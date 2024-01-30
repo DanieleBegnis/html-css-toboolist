@@ -58,6 +58,7 @@ border-radius: 15px;
 
 .subtitle {
     padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .circle {
@@ -76,6 +77,10 @@ border-radius: 15px;
     border: 1px solid green;
 }
 
+.cross{
+    color: red;
+    border: 1px solid red;
+}
 .bookmark {
     display: inline-block;
     padding: 5px;
@@ -86,4 +91,20 @@ border-radius: 15px;
 
 .editorial {
     background-color: aqua;
+}
+
+.line {
+    margin-top: 20px;
+}
+
+.goals{
+    background-color: blueviolet;
+}
+
+.recruit {
+    background-color: green;
+}
+
+.mobile {
+    background-color: orange;
 }
