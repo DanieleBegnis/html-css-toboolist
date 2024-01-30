@@ -25,18 +25,24 @@ header {
 
 .container {
 max-width: 800px;
-margin: 40px auto;
+margin: auto;
 background-color: white;
 padding: 15px;
 padding-left: 40px;
 border-radius: 15px;
 }
 
+.pulsanti {
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 40px;
+}
+
 .button {
     height: 30px;
     line-height: 20px;
     padding: 5px 10px;
-    border: 1px solid grey;
+    border: 1px solid lightgrey;
     border-radius: 7px;
 }
 
@@ -48,13 +54,11 @@ border-radius: 15px;
 
 .section {
     background-color: white;
-    color: grey;
-    border: 1px solid grey;
+    color: lightgrey;
+    border: 1px solid lightgrey;
 }
 
-.principale {
-    margin-top: 10px;
-}
+
 
 .subtitle {
     padding-top: 30px;
