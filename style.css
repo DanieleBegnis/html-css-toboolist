@@ -27,4 +27,31 @@ header {
 max-width: 800px;
 margin: 40px auto;
 background-color: white;
+padding: 15px;
+padding-left: 40px;
+border-radius: 15px;
+}
+
+.button {
+    height: 30px;
+    line-height: 20px;
+    padding: 5px 10px;
+    border: 1px solid grey;
+    border-radius: 7px;
+}
+
+.task {
+    background-color: lightskyblue;
+    color: white;
+    border: 1px solid lightskyblue;
+}
+
+.section {
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+}
+
+.principale {
+    margin-top: 10px;
 }
