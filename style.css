@@ -56,6 +56,10 @@ border-radius: 15px;
     margin-top: 10px;
 }
 
+.subtitle {
+    padding-top: 30px;
+}
+
 .circle {
     display: inline-block;
     border: 1px solid ;
@@ -76,7 +80,8 @@ border-radius: 15px;
     display: inline-block;
     padding: 5px;
     color: white;
-    border-radius: 5px;
+    border-radius: 15px;
+    font-size: small;
 }
 
 .editorial {
