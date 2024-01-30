@@ -55,3 +55,30 @@ border-radius: 15px;
 .principale {
     margin-top: 10px;
 }
+
+.circle {
+    display: inline-block;
+    border: 1px solid ;
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+    border-radius: 100%;
+    text-align: center;
+
+}
+
+.tick {
+    color: green;
+    border: 1px solid green;
+}
+
+.bookmark {
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+.editorial {
+    background-color: aqua;
+}
