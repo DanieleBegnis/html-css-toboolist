@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgrey;
+}
+
+header {
+    background-color: white;
+    padding: 15px 25px;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+#title {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container {
+max-width: 800px;
+margin: 40px auto;
+background-color: white;
+}
